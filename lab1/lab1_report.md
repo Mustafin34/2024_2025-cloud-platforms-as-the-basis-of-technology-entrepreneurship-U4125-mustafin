@@ -6,7 +6,7 @@ Group: U4125
 Author: Mustafin Daniil Eduardovic
 Lab: Lab1
 Date of create: 21.04.2025
-Date of finished: .04.2025
+Date of finished: 22.04.2025
 
 # Лабораторная работа №1 "Обзор Google Cloud и исследование основных сервисов."
 
